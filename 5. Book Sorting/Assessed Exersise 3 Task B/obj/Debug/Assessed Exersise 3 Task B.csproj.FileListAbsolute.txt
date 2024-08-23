@@ -1,0 +1,14 @@
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 3 Task B\Assessed Exersise 3 Task B\obj\Debug\Assessed Exersise 3 Task B.csproj.AssemblyReference.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 3 Task B\Assessed Exersise 3 Task B\obj\Debug\Assessed Exersise 3 Task B.csproj.CoreCompileInputs.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 3 Task B\Assessed Exersise 3 Task B\bin\Debug\Assessed Exersise 3 Task B.exe.config
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 3 Task B\Assessed Exersise 3 Task B\bin\Debug\Assessed Exersise 3 Task B.exe
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 3 Task B\Assessed Exersise 3 Task B\bin\Debug\Assessed Exersise 3 Task B.pdb
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 3 Task B\Assessed Exersise 3 Task B\obj\Debug\Assessed Exersise 3 Task B.exe
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 3 Task B\Assessed Exersise 3 Task B\obj\Debug\Assessed Exersise 3 Task B.pdb
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 3 Task B\Assessed Exersise 3 Task B\bin\Debug\Assessed Exersise 3 Task B.exe.config
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 3 Task B\Assessed Exersise 3 Task B\bin\Debug\Assessed Exersise 3 Task B.exe
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 3 Task B\Assessed Exersise 3 Task B\bin\Debug\Assessed Exersise 3 Task B.pdb
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 3 Task B\Assessed Exersise 3 Task B\obj\Debug\Assessed Exersise 3 Task B.csproj.AssemblyReference.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 3 Task B\Assessed Exersise 3 Task B\obj\Debug\Assessed Exersise 3 Task B.csproj.CoreCompileInputs.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 3 Task B\Assessed Exersise 3 Task B\obj\Debug\Assessed Exersise 3 Task B.exe
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 3 Task B\Assessed Exersise 3 Task B\obj\Debug\Assessed Exersise 3 Task B.pdb

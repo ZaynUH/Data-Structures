@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList BookDatabase", "Assessed Exersise 1 Task 3\LinkedList BookDatabase.csproj", "{5DB4C852-D3D4-4C5B-B205-9171667C65D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB4C852-D3D4-4C5B-B205-9171667C65D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB4C852-D3D4-4C5B-B205-9171667C65D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB4C852-D3D4-4C5B-B205-9171667C65D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB4C852-D3D4-4C5B-B205-9171667C65D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4D304BC-703F-47A3-BC13-AAA3574C33D9}
+	EndGlobalSection
+EndGlobal

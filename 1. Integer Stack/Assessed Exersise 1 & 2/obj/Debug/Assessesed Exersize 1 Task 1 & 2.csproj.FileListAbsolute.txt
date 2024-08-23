@@ -1,0 +1,20 @@
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\bin\Debug\Assessed Exersise 1 & 2.exe.config
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\bin\Debug\Assessed Exersise 1 & 2.exe
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\bin\Debug\Assessed Exersise 1 & 2.pdb
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessesed Exersize 1 Task 1 & 2.csproj.AssemblyReference.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessed_Exersise_1___2.Form1.resources
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessed_Exersise_1___2.Properties.Resources.resources
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessesed Exersize 1 Task 1 & 2.csproj.GenerateResource.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessesed Exersize 1 Task 1 & 2.csproj.CoreCompileInputs.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessed Exersise 1 & 2.exe
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exersise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessed Exersise 1 & 2.pdb
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\bin\Debug\Assessed Exersise 1 & 2.exe.config
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\bin\Debug\Assessed Exersise 1 & 2.exe
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\bin\Debug\Assessed Exersise 1 & 2.pdb
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessesed Exersize 1 Task 1 & 2.csproj.AssemblyReference.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessed_Exersise_1___2.Form1.resources
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessed_Exersise_1___2.Properties.Resources.resources
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessesed Exersize 1 Task 1 & 2.csproj.GenerateResource.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessesed Exersize 1 Task 1 & 2.csproj.CoreCompileInputs.cache
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessed Exersise 1 & 2.exe
+C:\Users\zayn4\OneDrive - MMU\Computer Science\Year 2\Algorithms and Data Structures\Assessed Exersises\Assessed Exercise 1 & 2\Assessed Exersise 1 & 2\obj\Debug\Assessed Exersise 1 & 2.pdb
